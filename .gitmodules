@@ -1,0 +1,3 @@
+[submodule "pvlib-python"]
+	path = pvlib-python
+	url = https://github.com/holgerpieta/pvlib-python.git
